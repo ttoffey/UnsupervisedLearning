@@ -1,4 +1,4 @@
-# UnsupervisedLearning - Cryptocurrency Clusters
+# Unsupervised Machine Learning - Cryptocurrency Clusters
 
 ## Background
 
