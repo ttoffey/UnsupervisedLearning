@@ -2,9 +2,13 @@
 
 ## Background
 
-### Objective: A prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. Create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
+### Objective: 
 
-#### Data: Process the raw data provided by the investment bank to fit the machine learning models.Use unsupervised learning to create a classification system. Utilize several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies. Provide data visualization to share your findings with the investment bank. (The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
+A prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. Create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
+
+#### Data: 
+
+Process the raw data provided by the investment bank to fit the machine learning models.Use unsupervised learning to create a classification system. Utilize several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies. Provide data visualization to share your findings with the investment bank. (The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
 
 ### Instructions
 
@@ -35,3 +39,11 @@
 ### Recommendation
 
 After running TSNE, there is one distinct cluster. Based on the elbow curve (while slight), the number of clusters was set at 5 and most of the data falls into Class 0 (out of 532 data points, 528 fall into Class 0 and 1 falls into each of the other four classes.) I do not think you can cluster cryptocurrencies because most of the data points fell into one cluster.
+
+### References
+
+LendingClub (2019-2020) _Loan Stats_. Retrieved from: [https://resources.lendingclub.com/](https://resources.lendingclub.com/)
+
+- - -
+
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
